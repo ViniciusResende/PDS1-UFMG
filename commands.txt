@@ -1,0 +1,2 @@
+gcc -c minha_bilioteca.c -lm
+gcc minha_main.c minha_biblioteca.o -lm
