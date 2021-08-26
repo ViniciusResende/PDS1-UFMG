@@ -1,0 +1,10 @@
+int power3Sum(int n);
+void printNaturalNumbersCresc(int n);
+void printNaturalNumbersDesc(int n);
+int sumArray(int *array, int n);
+float arrayAverage(int *array, int i, int n);
+int powValue(int x, int y);
+void printInvertedString(char *string);
+int switchedNaturalNumber(int num, int *sum);
+void printNumberToBit(int num);
+int lowerValueInArray(int *array, int n);
